@@ -2,10 +2,15 @@
 
 Claude skills for people who sell food supplements and nutricosmetics online (collagen, beauty-from-within, wellness cures). Built by an e-commerce manager in the Swiss supplement industry, for the problems generic marketing skills miss: health-claim rules in every major market, cure-based retention and ad policies on health and beauty.
 
+## Flagship: problem → solution → product
+
+`problem-to-product` starts from a real consumer need (menopause, sleep, skin aging, energy...), grades ingredients on human evidence at effective doses, writes the formula brief, translates the science into what each market legally allows, and ends with a product concept and a launch test. See the [menopause example](examples/problem-to-product-menopause.md).
+
 ## Skills
 
 | Skill | What it does |
 | --- | --- |
+| `problem-to-product` | From a health need to an evidence-graded formula, compliant claims per market and a launch-ready product concept |
 | `global-claims-localizer` | Turns one claim into a compliant version for the US (FDA/FTC), EU, UK, Switzerland, Canada and Australia, with the registrations and platform gates (Amazon, Meta, Google, TikTok Shop) for each market |
 | `claims-check` | Checks ads, pages, emails and briefs against Swiss (OIDAl annex 14) and EU (Reg. 1924/2006) health-claim rules and rewrites what fails |
 | `supplement-product-page` | Writes or audits a product page that converts and includes the mandatory supplement mentions |
@@ -14,9 +19,10 @@ Claude skills for people who sell food supplements and nutricosmetics online (co
 | `influencer-brief-supplements` | Creator briefs with do/don't rules on claims, disclosure and usage rights |
 | `supplement-subscription-economics` | Contribution margin, CAC, cohort LTV, payback and max CAC for cure-based businesses |
 
-## Example
+## Examples
 
-See [examples/global-claims-localizer.md](examples/global-claims-localizer.md): one US Amazon listing for a fictional collagen drink, localized for France, Switzerland and the UK.
+- [problem-to-product: menopause](examples/problem-to-product-menopause.md)
+- [global-claims-localizer: collagen drink](examples/global-claims-localizer.md), one US Amazon listing localized for France, Switzerland and the UK
 
 ## Install
 
