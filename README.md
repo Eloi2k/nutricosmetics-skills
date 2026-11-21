@@ -1,11 +1,12 @@
 # Nutricosmetics Skills
 
-Claude skills for people who sell food supplements and nutricosmetics online (collagen, beauty-from-within, wellness cures). Built by an e-commerce manager in the Swiss supplement industry, for the problems generic marketing skills miss: health-claim rules, cure-based retention and ad policies on health and beauty.
+Claude skills for people who sell food supplements and nutricosmetics online (collagen, beauty-from-within, wellness cures). Built by an e-commerce manager in the Swiss supplement industry, for the problems generic marketing skills miss: health-claim rules in every major market, cure-based retention and ad policies on health and beauty.
 
 ## Skills
 
 | Skill | What it does |
 | --- | --- |
+| `global-claims-localizer` | Turns one claim into a compliant version for the US (FDA/FTC), EU, UK, Switzerland, Canada and Australia, with the registrations and platform gates (Amazon, Meta, Google, TikTok Shop) for each market |
 | `claims-check` | Checks ads, pages, emails and briefs against Swiss (OIDAl annex 14) and EU (Reg. 1924/2006) health-claim rules and rewrites what fails |
 | `supplement-product-page` | Writes or audits a product page that converts and includes the mandatory supplement mentions |
 | `cure-retention-flows` | Email/SMS flows timed to the cure: onboarding, reorder before run-out, subscription, reviews, win-back |
