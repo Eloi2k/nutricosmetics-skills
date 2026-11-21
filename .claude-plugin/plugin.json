@@ -1,0 +1,8 @@
+{
+  "name": "nutricosmetics-skills",
+  "version": "0.1.0",
+  "description": "Claude skills for supplement and nutricosmetics e-commerce: Swiss/EU health-claims check, compliant product pages, cure-based retention flows, Meta ads for health & beauty, influencer briefs, subscription economics.",
+  "author": {"name": "Eloi2k"},
+  "repository": "https://github.com/Eloi2k/nutricosmetics-skills",
+  "license": "MIT"
+}

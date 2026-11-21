@@ -1,0 +1,5 @@
+{
+  "name": "nutricosmetics-skills",
+  "owner": {"name": "Eloi2k"},
+  "plugins": [{"name": "nutricosmetics-skills", "source": "./", "description": "Skills for supplement and nutricosmetics e-commerce"}]
+}
