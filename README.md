@@ -14,6 +14,10 @@ Claude skills for people who sell food supplements and nutricosmetics online (co
 | `influencer-brief-supplements` | Creator briefs with do/don't rules on claims, disclosure and usage rights |
 | `supplement-subscription-economics` | Contribution margin, CAC, cohort LTV, payback and max CAC for cure-based businesses |
 
+## Example
+
+See [examples/global-claims-localizer.md](examples/global-claims-localizer.md): one US Amazon listing for a fictional collagen drink, localized for France, Switzerland and the UK.
+
 ## Install
 
 **Claude Code:**
